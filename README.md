@@ -5,7 +5,7 @@ In this note, we will analyze the variance of stepwise sample means (SSM).
 Cite this note:
 
 ```
-@online{yang2022batch,
+@online{yang2022variance,
         title={Variance of Stepwise Sample Means},
         author={Jingxuan Yang},
         year={2022},
