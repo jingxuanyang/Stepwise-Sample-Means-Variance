@@ -1,6 +1,6 @@
 # Variance of Stepwise Sample Means
 
-In this note, we will analyze the variance of stepwise sample means.
+In this note, we will analyze the variance of stepwise sample means (SSM).
 
 Cite this note:
 
