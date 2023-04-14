@@ -10,7 +10,7 @@ Cite this note:
         author={Jingxuan Yang},
         year={2022},
         month={August},
-        url={\url{https://github.com/jingxuanyang/SSM-Variance}},
+        url={\url{https://github.com/jingxuanyang/Stepwise-Sample-Means-Variance}},
 }
 ```
 
